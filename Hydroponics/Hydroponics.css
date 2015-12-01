@@ -1,0 +1,194 @@
+body {
+background-color: #000000;
+font-family: Candara, Calibri, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+}
+
+
+#logo {
+margin-left: 4px;
+float: left;
+
+
+}
+
+#heading {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 6em;
+	text-transform: uppercase;
+	color: #CB903E;
+	background-color: #000000;
+	text-align: center;
+	padding: 0.5em;
+	
+	margin: 0;
+	
+	
+	}
+	
+#hcontainer {
+	background-color: #000000;
+	max-width: 100%;
+	height: 12em;
+	
+	
+	
+	
+	}
+	
+#navigation {
+text-align: center;
+text-transform: uppercase;
+
+
+background-color: #404040;
+margin: auto;
+height: 3em;
+
+padding-right: 2em;
+
+border: 1px solid #CB903E;
+
+
+	}
+	
+	
+	
+	#navigation li {
+	display: inline-block;
+	padding-top: 0em;
+	padding-left: 1em;
+	padding-right: 1em;
+	letter-spacing: 0.1em;
+	
+	
+
+	
+	
+	
+	}
+	
+	a:link {
+	color: #CB903E;
+		}
+		
+	a:visited {
+	color: #CB903E;
+		}
+	
+		
+		
+	a:hover {
+	color: #CB903E;
+	
+	background-color: #FFFFF0;
+	opacity: 0.9;
+	filter: alpha(opacity=90);	
+	}
+	
+	
+	#info {
+	float: left;
+	font-size: 1.5em;
+	text-align: center;
+	color: #FFFFFF;
+	max-width: 20em;
+	margin-left: 1em;
+	margin-right: 0em;
+	margin-top: 0.7em;
+	margin-bottom: 2em;
+	padding-top: 5em;
+	padding-right: 5em;
+	padding-left: 5em;
+	padding-bottom: 4em;
+	border: 1px solid #CB903E;
+	word-spacing: 1px;
+	
+	
+	
+	
+	
+	
+	}
+	
+	#kanye {
+	margin-left: 0em;
+	margin-top: 1em;
+	margin-right: 1em;
+		float: right;
+		color: #FFFFFF;
+		text-align: center;
+		border: 1px solid #CB903E;
+		padding-top: 1em;
+		padding-bottom: 0em;
+		margin-bottom: 1em;
+		
+	
+	max-width: 40em;
+	
+	}
+	
+	#kanyeface {
+	float: left;
+	max-width: 100%
+	
+	padding-top: 1em;
+	padding-bottom: 1em;
+	padding-left: 1em;
+	
+	
+	
+	}
+	
+	#kanyetext {
+	font-size: 15px;
+	float: right; 
+	padding-top: 0;
+	padding-right: 9em;
+	padding-left: 1em;
+	margin: 0;
+	}
+	
+	
+	#kanyetext2 {
+	font-size: 15px;
+	float: right; 
+	padding-right: 1em;
+	padding-left: 0em;
+	margin: 0;
+	padding-top: 0;
+	
+	}
+	
+	#kanye li {
+	text-align: left;
+	}
+	
+	#kanye h3 {
+		color: #CB903E;
+		padding-top: 0;
+		margin: 0;
+		margin-bottom: 1em;
+		font-size: 3em;
+		}
+	
+	
+	#tunes {
+	color: #CB903E;
+	font-size: 3em;
+	text-align: center;
+	padding-top: 0.5em;
+	padding-bottom: 1em;
+	margin-bottom: 3em;
+	border-top: solid 1px #CB903E;
+	border-bottom: solid 1px #CB903E;
+	
+	clear: left;
+	clear: right;
+	}
+	
+	
+	
+	a {
+		color: #CB903E;
+		
+		}
